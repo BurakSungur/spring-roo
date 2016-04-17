@@ -19,7 +19,7 @@ public class ApplicationConfigServiceImplTest {
 
   // Fixture
   private ApplicationConfigService applicationConfigService;
-
+asd
   @Before
   public void setUp() throws IllegalArgumentException, IllegalAccessException {
     applicationConfigService = new ApplicationConfigServiceImpl();
